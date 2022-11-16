@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GigiNewt
 - 👀 I’m interested in coding a small game 
-- 🌱 I’m currently learning python
-- 📫 How to reach me: Discord: GigiNewt<3#0005
+- 🌱 I’m currently learning java
+
 
 
 <!---
